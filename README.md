@@ -1,2 +1,2 @@
 # DigitalClock
-Arduino project
+Arduino project implemented in Tinkercad. 
